@@ -1,4 +1,4 @@
-# open_auth_unity
+# OpenAuthUnity
 支付宝登录极简版Unity接入，支持安卓和iOS。
 
 ## 使用方法
